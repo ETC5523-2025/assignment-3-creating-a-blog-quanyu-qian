@@ -1,13 +1,35 @@
 ---
-title: "About"
+title: "Profile"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
-
+      href: https://github.com/quanyu-qian
+    - icon: envelope
+      text: Email
+      href: mailto:qqia0010@student.monash.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/quanyu-qian-ariel/
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+
+## Hi, I’m **Quanyu Qian**.
+
+I am currently studying for a Master of Business at Monash University, specialising in Data Analytics for Business.
+
+My interests include working with data, building dashboards, and exploring how analytics can support better decision-making in areas such as transport and sustainability. I have experience with R, SQL, and Power BI for data analysis and visualization.
+
+Looking ahead, I am keen to apply my analytical skills in data-driven industries, particularly in transport and sustainability, and to collaborate on innovative projects that create a positive impact.
+
+Outside of study, I enjoy reading science fiction and experimenting with small creative projects.
+
+Feel free to connect with me through the links below.
+
+## Contact
+
+📧 qqia0010@student.monash.edu
+🏫 Monash University, Caulfield Campus, Melbourne, VIC, Australia\
+🌐 [GitHub](https://github.com/quanyu-qian) \| [LinkedIn](https://www.linkedin.com/in/quanyu-qian-ariel/)

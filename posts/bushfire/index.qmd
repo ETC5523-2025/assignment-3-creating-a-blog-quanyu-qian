@@ -1,0 +1,116 @@
+---
+title: "How Climate Change Fuels Australia’s Bushfire Risk"
+author: "Quanyu Qian"
+date: "2025-10-10"
+categories: [climate]
+format: html
+
+image: bushfire.jpg
+
+title-block-banner: bushfire.jpg
+title-block-banner-height: 320px
+
+abstract: >
+ This blog post summarises evidence from van Oldenborgh et al. (2021) showing how human-driven climate change has significantly increased the likelihood and intensity of Australia’s bushfires.
+---
+> Australia’s 2019–20 “Black Summer” bushfires shocked the world, burning millions of hectares and killing over a billion animals.  
+
+The disaster raised a pressing question: **to what extent has human-driven climate change increased the likelihood of such extreme bushfires?**  
+
+The answer lies in decades of changing weather patterns and rising greenhouse gas emissions. This blog draws on findings from van Oldenborgh et al. (2021) to explain how climate change amplified Australia’s bushfire risk. Understanding this link is key to predicting and preparing for future disasters.
+
+
+## Problem Description
+Bushfires have always been part of Australia’s environment — but they are becoming more frequent, more intense, and harder to control.  
+
+The 2019–20 season was extraordinary, fuelled by record-breaking heat and long droughts. Scientists sought to find out whether these conditions were part of natural climate cycles — or whether human-driven warming made them more likely.
+
+<h2 style="background: linear-gradient(90deg, #2E86C1, #8E44AD); -webkit-background-clip: text; color: transparent;">
+What the Data Shows
+</h2>
+
+To answer this, researchers analysed ERA5 reanalysis records and global climate models.  
+According to van Oldenborgh et al. (2021), these datasets show that human-induced warming has made Australia’s extreme fire weather at least four times more likely.
+
+As shown in @fig-fwi, higher Fire Weather Index (FWI) values are strongly linked with greater burned areas.
+
+![Scatter plot of Fire Weather Index and burned area.](figure.png){#fig-fwi}
+
+*The upward trend shows that higher Fire Weather Index (FWI) values are linked with larger burned areas — a clear sign of how heat and dryness amplify fire danger.*
+
+In fact, scientists have found that climate change has:
+
+- Increased fire weather risk by at least <span class="red-text">30%</span>
+
+- Doubled the likelihood of <span class="orange-text">extreme heat events</span>
+
+- Made fire seasons like 2019–20 at least <span class="blue-text">four times more likely</span>
+
+Together, these changes show that global warming has already shifted Australia’s baseline fire risk. The country is now starting each summer from a higher level of danger than before.
+
+To understand how these conclusions were reached, researchers tested a range of global climate models (see @tbl-models).  
+Beyond the numbers, these models reveal a distinct **human fingerprint** on Australia’s fire weather — confirming that the link between greenhouse gases and extreme conditions is no longer just theoretical.
+
+: List of climate model ensembles used. {#tbl-models}
+
+| Name           | Context             | Resolution         | Members | Time       | Reference                      |
+|----------------|--------------------|--------------------|----------|-------------|--------------------------------|
+| ASF-20C        | Seasonal hindcasts | T255L91 (0.71°)    | 51 | 1901–2010 | Weisheimer et al. (2017) |
+| CanESM2        | CMIP5              | 2.8°               | 50 | 1950–2099 | Kirchmeier-Young et al. (2017) |
+| CESM1-CAM5     | CMIP5              | 1°                 | 40 | 1920–2100 | Kay et al. (2015) |
+| CSIRO-Mk3-6-0  | CMIP5              | 1.9°               | 30 | 1850–2100 | Jeffrey et al. (2013) |
+| EC-Earth       | CMIP5              | T159 (1.1°)        | 16 | 1860–2100 | Hazeleger et al. (2010) |
+| GFDL-CM3       | CMIP5              | 2.0°               | 20 | 1920–2100 | Sun et al. (2018) |
+| GFDL-ESM2M     | CMIP5              | 2.0°               | 30 | 1950–2100 | Rodgers et al. (2015) |
+| HadGEM3-A      | Attribution        | N216 (0.6°)        | 15 | 1960–2015 | Ciavarella et al. (2018) |
+| IPSL-CM6A-LR   | CMIP6              | 2.5 × 1.5°         | 32 | 1950–2019 | Boucher et al. (2020) |
+| MPI-ESM        | CMIP5              | 1.9°               | 100 | 1850–2099 | Maher et al. (2019) |
+| weather@home   | Attribution        | N96 (1.8°)         | 1520 × 2 | 1987–2017 | Guillod et al. (2017) |
+
+*This table summarises the models used to test scenarios with and without human influence.*
+
+
+Together, the results reveal a clear human fingerprint on Australia’s bushfire risk.  
+**In other words,** the data confirm that rising greenhouse gases are intensifying fire weather — a link long suspected, but now statistically proven.
+
+## Why It Matters
+
+The evidence is clear:  
+<span style="color:#C0392B; font-weight:bold;">Climate change is already shaping Australia’s fire seasons</span> — confirming that these changes are no longer theoretical.  
+
+- 🔥 Dangerous fire conditions are becoming the norm, and will worsen if warming continues.  
+- 🌪️ Natural cycles still influence rainfall and wind, but human-driven heat has become the dominant force behind extreme fire weather.  
+
+
+## Conclusion
+
+
+<span style="color:#1A5276; font-weight:bold;">The 2019–20 Black Summer was not an anomaly — it was evidence</span> that <span style="color:#C0392B;">human-driven climate change</span> is amplifying Australia’s fire risk.  
+
+Our analysis indicates that extreme fire weather has already become  
+<span style="color:#C0392B; font-weight:bold;">~30% more likely</span>, showing a clear human influence.
+
+
+
+**To prevent future disasters, Australia must:**
+
+- **Strengthen** bushfire preparedness and early-warning systems  
+- **Rethink** land management for longer, hotter fire seasons  
+- **Reduce** greenhouse-gas emissions to limit further warming
+
+
+As van Oldenborgh et al. (2021) conclude, these fires were not simply bad luck —  
+they are a glimpse of the <span style="color:#6C3483; font-weight:bold;">climate future Australia is heading towards</span> if emissions continue.
+
+---
+
+*Understanding this link between climate and fire closes the loop on our opening question — and reminds us that science can guide the choices that prevent another Black Summer.*
+
+
+
+## Reference
+
+van Oldenborgh, G. J., Krikken, F., Lewis, S., Leach, N. J., Lehner, F., Saunders, K. R., … Cullen, H. (2021).  
+*Attribution of the Australian bushfire risk to anthropogenic climate change.*  
+_Natural Hazards and Earth System Sciences, 21_(3), 941–960.  
+[https://doi.org/10.5194/nhess-21-941-2021](https://doi.org/10.5194/nhess-21-941-2021)

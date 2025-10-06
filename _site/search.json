@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "posts/bushfire/index.html",
+    "href": "posts/bushfire/index.html",
+    "title": "How Climate Change Fuels Australia’s Bushfire Risk",
+    "section": "",
+    "text": "Australia’s 2019–20 “Black Summer” bushfires shocked the world, burning millions of hectares and killing over a billion animals.\nThe disaster raised a pressing question: to what extent has human-driven climate change increased the likelihood of such extreme bushfires?\nThe answer lies in decades of changing weather patterns and rising greenhouse gas emissions. This blog draws on findings from van Oldenborgh et al. (2021) to explain how climate change amplified Australia’s bushfire risk. Understanding this link is key to predicting and preparing for future disasters."
+  },
+  {
+    "objectID": "posts/bushfire/index.html#problem-description",
+    "href": "posts/bushfire/index.html#problem-description",
+    "title": "How Climate Change Fuels Australia’s Bushfire Risk",
+    "section": "Problem Description",
+    "text": "Problem Description\nBushfires have always been part of Australia’s environment — but they are becoming more frequent, more intense, and harder to control.\nThe 2019–20 season was extraordinary, fuelled by record-breaking heat and long droughts. Scientists sought to find out whether these conditions were part of natural climate cycles — or whether human-driven warming made them more likely.\n\nWhat the Data Shows\n\nTo answer this, researchers analysed ERA5 reanalysis records and global climate models.\nAccording to van Oldenborgh et al. (2021), these datasets show that human-induced warming has made Australia’s extreme fire weather at least four times more likely.\nAs shown in Figure 1, higher Fire Weather Index (FWI) values are strongly linked with greater burned areas.\n\n\n\n\n\n\nFigure 1: Scatter plot of Fire Weather Index and burned area.\n\n\n\nThe upward trend shows that higher Fire Weather Index (FWI) values are linked with larger burned areas — a clear sign of how heat and dryness amplify fire danger.\nIn fact, scientists have found that climate change has:\n\nIncreased fire weather risk by at least 30%\nDoubled the likelihood of extreme heat events\nMade fire seasons like 2019–20 at least four times more likely\n\nTogether, these changes show that global warming has already shifted Australia’s baseline fire risk. The country is now starting each summer from a higher level of danger than before.\nTo understand how these conclusions were reached, researchers tested a range of global climate models (see Table 1).\nBeyond the numbers, these models reveal a distinct human fingerprint on Australia’s fire weather — confirming that the link between greenhouse gases and extreme conditions is no longer just theoretical.\n\n\n\nTable 1: List of climate model ensembles used.\n\n\n\n\n\n\n\n\n\n\n\n\n\nName\nContext\nResolution\nMembers\nTime\nReference\n\n\n\n\nASF-20C\nSeasonal hindcasts\nT255L91 (0.71°)\n51\n1901–2010\nWeisheimer et al. (2017)\n\n\nCanESM2\nCMIP5\n2.8°\n50\n1950–2099\nKirchmeier-Young et al. (2017)\n\n\nCESM1-CAM5\nCMIP5\n1°\n40\n1920–2100\nKay et al. (2015)\n\n\nCSIRO-Mk3-6-0\nCMIP5\n1.9°\n30\n1850–2100\nJeffrey et al. (2013)\n\n\nEC-Earth\nCMIP5\nT159 (1.1°)\n16\n1860–2100\nHazeleger et al. (2010)\n\n\nGFDL-CM3\nCMIP5\n2.0°\n20\n1920–2100\nSun et al. (2018)\n\n\nGFDL-ESM2M\nCMIP5\n2.0°\n30\n1950–2100\nRodgers et al. (2015)\n\n\nHadGEM3-A\nAttribution\nN216 (0.6°)\n15\n1960–2015\nCiavarella et al. (2018)\n\n\nIPSL-CM6A-LR\nCMIP6\n2.5 × 1.5°\n32\n1950–2019\nBoucher et al. (2020)\n\n\nMPI-ESM\nCMIP5\n1.9°\n100\n1850–2099\nMaher et al. (2019)\n\n\nweather@home\nAttribution\nN96 (1.8°)\n1520 × 2\n1987–2017\nGuillod et al. (2017)\n\n\n\n\n\n\nThis table summarises the models used to test scenarios with and without human influence.\nTogether, the results reveal a clear human fingerprint on Australia’s bushfire risk.\nIn other words, the data confirm that rising greenhouse gases are intensifying fire weather — a link long suspected, but now statistically proven."
+  },
+  {
+    "objectID": "posts/bushfire/index.html#why-it-matters",
+    "href": "posts/bushfire/index.html#why-it-matters",
+    "title": "How Climate Change Fuels Australia’s Bushfire Risk",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nThe evidence is clear:\nClimate change is already shaping Australia’s fire seasons — confirming that these changes are no longer theoretical.\n\n🔥 Dangerous fire conditions are becoming the norm, and will worsen if warming continues.\n\n🌪️ Natural cycles still influence rainfall and wind, but human-driven heat has become the dominant force behind extreme fire weather."
+  },
+  {
+    "objectID": "posts/bushfire/index.html#conclusion",
+    "href": "posts/bushfire/index.html#conclusion",
+    "title": "How Climate Change Fuels Australia’s Bushfire Risk",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe 2019–20 Black Summer was not an anomaly — it was evidence that human-driven climate change is amplifying Australia’s fire risk.\nOur analysis indicates that extreme fire weather has already become\n~30% more likely, showing a clear human influence.\nTo prevent future disasters, Australia must:\n\nStrengthen bushfire preparedness and early-warning systems\n\nRethink land management for longer, hotter fire seasons\n\nReduce greenhouse-gas emissions to limit further warming\n\nAs van Oldenborgh et al. (2021) conclude, these fires were not simply bad luck —\nthey are a glimpse of the climate future Australia is heading towards if emissions continue.\n\nUnderstanding this link between climate and fire closes the loop on our opening question — and reminds us that science can guide the choices that prevent another Black Summer."
+  },
+  {
+    "objectID": "posts/bushfire/index.html#reference",
+    "href": "posts/bushfire/index.html#reference",
+    "title": "How Climate Change Fuels Australia’s Bushfire Risk",
+    "section": "Reference",
+    "text": "Reference\nvan Oldenborgh, G. J., Krikken, F., Lewis, S., Leach, N. J., Lehner, F., Saunders, K. R., … Cullen, H. (2021).\nAttribution of the Australian bushfire risk to anthropogenic climate change.\nNatural Hazards and Earth System Sciences, 21(3), 941–960.\nhttps://doi.org/10.5194/nhess-21-941-2021"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Profile",
+    "section": "",
+    "text": "I am currently studying for a Master of Business at Monash University, specialising in Data Analytics for Business.\nMy interests include working with data, building dashboards, and exploring how analytics can support better decision-making in areas such as transport and sustainability. I have experience with R, SQL, and Power BI for data analysis and visualization.\nLooking ahead, I am keen to apply my analytical skills in data-driven industries, particularly in transport and sustainability, and to collaborate on innovative projects that create a positive impact.\nOutside of study, I enjoy reading science fiction and experimenting with small creative projects.\nFeel free to connect with me through the links below."
+  },
+  {
+    "objectID": "about.html#hi-im-quanyu-qian.",
+    "href": "about.html#hi-im-quanyu-qian.",
+    "title": "Profile",
+    "section": "",
+    "text": "I am currently studying for a Master of Business at Monash University, specialising in Data Analytics for Business.\nMy interests include working with data, building dashboards, and exploring how analytics can support better decision-making in areas such as transport and sustainability. I have experience with R, SQL, and Power BI for data analysis and visualization.\nLooking ahead, I am keen to apply my analytical skills in data-driven industries, particularly in transport and sustainability, and to collaborate on innovative projects that create a positive impact.\nOutside of study, I enjoy reading science fiction and experimenting with small creative projects.\nFeel free to connect with me through the links below."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "Profile",
+    "section": "Contact",
+    "text": "Contact\n📧 qqia0010@student.monash.edu 🏫 Monash University, Caulfield Campus, Melbourne, VIC, Australia\n🌐 GitHub | LinkedIn"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 Blog Assessment",
+    "section": "",
+    "text": "How Climate Change Fuels Australia’s Bushfire Risk\n\n\n\n\n\n\nclimate\n\n\n\nThis blog post summarises evidence from van Oldenborgh et al. (2021) showing how human-driven climate change has significantly increased the likelihood and intensity of Australia’s bushfires. \n\n\n\n\n\nOct 10, 2025\n\n\nQuanyu Qian\n\n\n\n\n\n\nNo matching items"
+  }
+]
